@@ -1,0 +1,16 @@
+series: Basic OpenGL with GLFW
+title: Rendering to Textures
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Render to a texture, then use that texture to render something else!
+language: C++
+tags:
+  - Graphics
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Textures
+  - series: Bufferless Rendering
+    title: Rendering without Vertex Data
